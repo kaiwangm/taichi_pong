@@ -13,5 +13,5 @@ pip install taichi
 Run the code:
 
 ```
-python poog.py
+python pong.py
 ```
