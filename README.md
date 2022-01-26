@@ -1,8 +1,17 @@
 # taichi_poog
 
-<img src="https://github.com/kaiwangm/public_files/raw/master/taichi/lagrangian.gif" height="192px">
+<img src="https://raw.githubusercontent.com/kaiwangm/taichi_poog/main/img/game.png" height="192px">
 
-```python
+## How to run
+
+Install the latest Taichi by:
+
+```
 pip install taichi
+```
+
+Run the code:
+
+```
 python poog.py
 ```
