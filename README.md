@@ -1,6 +1,6 @@
 # taichi_pong
 
-<img src="https://raw.githubusercontent.com/kaiwangm/taichi_pong/main/img/game.png" height="576px">
+<img src="https://raw.githubusercontent.com/kaiwangm/taichi_pong/main/img/game.png">
 
 ## How to play
 
